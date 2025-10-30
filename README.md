@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 ```typescript
-const zou: Developer = {
+const thumor: Developer = {
     languages: ["Chinese", "English"],
     code: ["Python", "JavaScript", "Go", "C#", "C++"],
     focus: "Full Stack Development & AI Integration",
@@ -64,13 +64,6 @@ const zou: Developer = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<p align="left">
-  <strong>Blockchain:</strong><br>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js">
-</p>
-
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/thumor0923/ParkingEventAnomalyDetection">
@@ -91,10 +84,23 @@ const zou: Developer = {
   <img src="https://raw.githubusercontent.com/thumor0923/thumor0923/output/snake.svg" alt="Snake animation" />
 </div>
 
-## 📫 Contact
-- **Email:** thumorr@gmail.com
-
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thumor0923&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 ---
+## 📫 Get in Touch
+<p align="center">
+  <a href="https://www.linkedin.com/in/cheng-han-yeh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+<!--  <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio">
+  </a>-->
+  <a href="mailto:thumorr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 <div align="center">
   <i>🌟 Always excited to collaborate on innovative projects! Feel free to reach out!</i>
 </div>
