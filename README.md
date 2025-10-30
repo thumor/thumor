@@ -20,8 +20,8 @@ const thumor: Developer = {
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thumor0923&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thumor0923&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thumor&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thumor&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ## 🛠️ Tech Stack
@@ -66,32 +66,32 @@ const thumor: Developer = {
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/thumor0923/ParkingEventAnomalyDetection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thumor0923&repo=ParkingEventAnomalyDetection&theme=dark&hide_border=true" alt="ParkingEventAnomalyDetection">
+  <a href="https://github.com/thumor/ParkingEventAnomalyDetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thumor&repo=ParkingEventAnomalyDetection&theme=dark&hide_border=true" alt="ParkingEventAnomalyDetection">
   </a>
-  <a href="https://github.com/thumor0923/EvolutionaryMultitaskRLForRobotics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thumor0923&repo=EvolutionaryMultitaskRLForRobotics&theme=dark&hide_border=true" alt="EvolutionaryMultitaskRLForRobotics">
+  <a href="https://github.com/thumor/EvolutionaryMultitaskRLForRobotics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thumor&repo=EvolutionaryMultitaskRLForRobotics&theme=dark&hide_border=true" alt="EvolutionaryMultitaskRLForRobotics">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/thumor0923/IOT_SideProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thumor0923&repo=IOT_SideProject&theme=dark&hide_border=true" alt="IOT_SideProject">
+  <a href="https://github.com/thumor/IOT_SideProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thumor&repo=IOT_SideProject&theme=dark&hide_border=true" alt="IOT_SideProject">
   </a>
 </p>
 
 ## 📈 GitHub Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thumor0923/thumor0923/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/thumor/thumor/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thumor0923&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thumor&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
----
+
 ## 📫 Get in Touch
 <p align="center">
-  <a href="https://www.linkedin.com/in/cheng-han-yeh" target="_blank">
+  <a href="https://www.linkedin.com/in/cheng-han-yeh-380442300/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 <!--  <a href="https://your-portfolio-website.com" target="_blank">
